@@ -1,9 +1,0 @@
-pandas
-pydantic
-email-validator
-python-dateutil
-tabulate
-
-[dev]
-pytest
-ruff
