@@ -1,0 +1,6 @@
+external_id,name,domain,linkedin_url,country,city,industry,employee_count,revenue_range
+c001,Acme Analytics,acmeanalytics.com,https://www.linkedin.com/company/acme-analytics,BE,Brussels,Data Analytics,120,10M-50M
+c002,Northstar Logistics,northstarlogistics.eu,https://www.linkedin.com/company/northstar-logistics,NL,Amsterdam,Logistics,850,50M-100M
+c003,GreenGrid Energy,greengrid.energy,https://www.linkedin.com/company/greengrid-energy,BE,Ghent,Renewable Energy,45,1M-10M
+c004,Finovo,finovo.io,https://www.linkedin.com/company/finovo,DE,Berlin,Fintech,230,10M-50M
+c005,MedCore Systems,medcore-systems.com,https://www.linkedin.com/company/medcore-systems,FR,Lyon,Healthcare Software,510,50M-100M

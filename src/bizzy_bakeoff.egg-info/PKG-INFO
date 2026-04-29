@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: bizzy-bakeoff
+Version: 0.1.0
+Summary: Automated data quality bake-off module
+Requires-Python: >=3.11
+Requires-Dist: pandas
+Requires-Dist: pydantic
+Requires-Dist: email-validator
+Requires-Dist: python-dateutil
+Requires-Dist: tabulate
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: ruff; extra == "dev"

@@ -1,0 +1,6 @@
+external_id,full_name,email,linkedin_url,job_title,seniority,department
+p001,Emma Peeters,emma.peeters@acmeanalytics.com,https://www.linkedin.com/in/emma-peeters,Head of Sales,Head,Sales
+p002,Lucas de Vries,lucas.devries@northstarlogistics.eu,https://www.linkedin.com/in/lucas-devries,VP Operations,VP,Operations
+p003,Sophie Janssens,sophie.janssens@greengrid.energy,https://www.linkedin.com/in/sophie-janssens,Founder,Founder,Executive
+p004,Max Schneider,max.schneider@finovo.io,https://www.linkedin.com/in/max-schneider,Data Engineering Manager,Manager,Engineering
+p005,Claire Martin,claire.martin@medcore-systems.com,https://www.linkedin.com/in/claire-martin,Chief Technology Officer,C-Level,Technology

@@ -1,0 +1,21 @@
+[project]
+name = "bizzy-bakeoff"
+version = "0.1.0"
+description = "Automated data quality bake-off module"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas",
+    "pydantic",
+    "email-validator",
+    "python-dateutil",
+    "tabulate"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "ruff"
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
