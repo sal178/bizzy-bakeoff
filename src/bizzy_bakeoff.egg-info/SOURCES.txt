@@ -4,9 +4,17 @@ src/bakeoff/__init__.py
 src/bakeoff/config.py
 src/bakeoff/models.py
 src/bakeoff/runner.py
+src/bakeoff/comparison/compare.py
+src/bakeoff/comparison/field_rules.py
+src/bakeoff/comparison/scoring.py
 src/bakeoff/connectors/base.py
 src/bakeoff/connectors/competitor_a_mock.py
 src/bakeoff/connectors/competitor_b_mock.py
+src/bakeoff/normalization/companies.py
+src/bakeoff/normalization/contacts.py
+src/bakeoff/normalization/utils.py
+src/bakeoff/storage/delta_writer.py
+src/bakeoff/storage/output_writer.py
 src/bizzy_bakeoff.egg-info/PKG-INFO
 src/bizzy_bakeoff.egg-info/SOURCES.txt
 src/bizzy_bakeoff.egg-info/dependency_links.txt
