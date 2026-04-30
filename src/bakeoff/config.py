@@ -11,7 +11,7 @@ class BakeoffConfig:
         default_factory=lambda: ["competitor_a", "competitor_b"]
     )
 
-    output_mode: str = "csv"  
+    output_mode: str = "csv"  # overwritten in notebook
     output_dir: str | Path = Path("reports")
 
     catalog: str | None = None

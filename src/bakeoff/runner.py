@@ -194,6 +194,7 @@ def run_bakeoff(config: BakeoffConfig | None = None) -> None:
             f"{c.field_name} | {c.bizzy_value} vs {c.source_value} → {c.winner}"
         )
 
+    # Generate scores for comaprisons
     entity_scores = []
 
     for bizzy_company in bizzy_companies:
