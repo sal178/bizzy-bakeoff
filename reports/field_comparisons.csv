@@ -1,0 +1,79 @@
+run_id,entity_type,entity_id,compared_source,field_name,bizzy_value,source_value,truth_value,winner,confidence,notes
+2026-04-29T17:15:26.809811,company,c001,competitor_a,name,acme analytics,acme analytics bv,acme analytics,bizzy,0.7,Values differ
+2026-04-29T17:15:26.809811,company,c001,competitor_a,domain,acmeanalytics.com,acmeanalytics.com,acmeanalytics.com,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c001,competitor_a,linkedin_url,https://www.linkedin.com/company/acme-analytics,https://www.linkedin.com/company/acme-analytics,https://www.linkedin.com/company/acme-analytics,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c001,competitor_a,country,BE,BE,BE,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c001,competitor_a,city,brussels,brussels,brussels,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c001,competitor_a,industry,data analytics,business intelligence,data analytics,bizzy,0.7,Values differ
+2026-04-29T17:15:26.809811,company,c001,competitor_a,employee_count,120,90,120,bizzy,0.7,Values differ
+2026-04-29T17:15:26.809811,company,c001,competitor_a,revenue_range,10m-50m,,10m-50m,bizzy,0.7,Values differ
+2026-04-29T17:15:26.809811,company,c001,competitor_b,name,acme analytics,acme analytics,acme analytics,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c001,competitor_b,domain,acmeanalytics.com,acmeanalytics.com,acmeanalytics.com,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c001,competitor_b,linkedin_url,https://www.linkedin.com/company/acme-analytics,https://www.linkedin.com/company/acme-analytics,https://www.linkedin.com/company/acme-analytics,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c001,competitor_b,country,BE,BE,BE,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c001,competitor_b,city,brussels,brussels,brussels,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c001,competitor_b,industry,data analytics,analytics software,data analytics,bizzy,0.7,Values differ
+2026-04-29T17:15:26.809811,company,c001,competitor_b,employee_count,120,,120,bizzy,0.7,Values differ
+2026-04-29T17:15:26.809811,company,c001,competitor_b,revenue_range,10m-50m,1m-10m,10m-50m,bizzy,0.7,Values differ
+2026-04-29T17:15:26.809811,company,c002,competitor_a,name,northstar logistics,northstar logistics,northstar logistics,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c002,competitor_a,domain,northstarlogistics.eu,northstarlogistics.eu,northstarlogistics.eu,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c002,competitor_a,linkedin_url,https://www.linkedin.com/company/northstar-logistics,,https://www.linkedin.com/company/northstar-logistics,bizzy,0.7,Values differ
+2026-04-29T17:15:26.809811,company,c002,competitor_a,country,NL,NL,NL,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c002,competitor_a,city,amsterdam,amsterdam,amsterdam,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c002,competitor_a,industry,logistics,transportation,logistics,bizzy,0.7,Values differ
+2026-04-29T17:15:26.809811,company,c002,competitor_a,employee_count,850,810,850,bizzy,0.7,Values differ
+2026-04-29T17:15:26.809811,company,c002,competitor_a,revenue_range,50m-100m,50m-100m,50m-100m,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c003,competitor_b,name,greengrid energy,greengrid energy,greengrid energy,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c003,competitor_b,domain,greengrid.energy,greengrid.energy,greengrid.energy,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c003,competitor_b,linkedin_url,https://www.linkedin.com/company/greengrid-energy,,https://www.linkedin.com/company/greengrid-energy,bizzy,0.7,Values differ
+2026-04-29T17:15:26.809811,company,c003,competitor_b,country,BE,BE,BE,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c003,competitor_b,city,ghent,ghent,ghent,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c003,competitor_b,industry,renewable energy,energy,renewable energy,bizzy,0.7,Values differ
+2026-04-29T17:15:26.809811,company,c003,competitor_b,employee_count,45,40,45,bizzy,0.7,Values differ
+2026-04-29T17:15:26.809811,company,c003,competitor_b,revenue_range,1m-10m,,1m-10m,bizzy,0.7,Values differ
+2026-04-29T17:15:26.809811,company,c004,competitor_a,name,finovo,finovo,finovo,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c004,competitor_a,domain,finovo.io,finovo.io,finovo.io,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c004,competitor_a,linkedin_url,https://www.linkedin.com/company/finovo,https://www.linkedin.com/company/finovo,https://www.linkedin.com/company/finovo,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c004,competitor_a,country,DE,DE,DE,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c004,competitor_a,city,berlin,berlin,berlin,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c004,competitor_a,industry,fintech,financial technology,fintech,bizzy,0.7,Values differ
+2026-04-29T17:15:26.809811,company,c004,competitor_a,employee_count,230,210,230,bizzy,0.7,Values differ
+2026-04-29T17:15:26.809811,company,c004,competitor_a,revenue_range,10m-50m,10m-50m,10m-50m,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c005,competitor_b,name,medcore systems,medcore systems,medcore systems,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c005,competitor_b,domain,medcore-systems.com,medcore-systems.com,medcore-systems.com,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c005,competitor_b,linkedin_url,https://www.linkedin.com/company/medcore-systems,https://www.linkedin.com/company/medcore-systems,https://www.linkedin.com/company/medcore-systems,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c005,competitor_b,country,FR,FR,FR,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c005,competitor_b,city,lyon,lyon,lyon,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c005,competitor_b,industry,healthcare software,healthcare software,healthcare software,tie,0.7,Values match
+2026-04-29T17:15:26.809811,company,c005,competitor_b,employee_count,510,500,510,bizzy,0.7,Values differ
+2026-04-29T17:15:26.809811,company,c005,competitor_b,revenue_range,50m-100m,50m-100m,50m-100m,tie,0.7,Values match
+2026-04-29T17:15:26.809811,contact,p001,competitor_a,full_name,emma peeters,emma peeters,emma peeters,tie,0.7,Values match
+2026-04-29T17:15:26.809811,contact,p001,competitor_a,email,emma.peeters@acmeanalytics.com,emma.peeters@acmeanalytics.com,emma.peeters@acmeanalytics.com,tie,0.7,Values match
+2026-04-29T17:15:26.809811,contact,p001,competitor_a,linkedin_url,https://www.linkedin.com/in/emma-peeters,https://www.linkedin.com/in/emma-peeters,https://www.linkedin.com/in/emma-peeters,tie,0.7,Values match
+2026-04-29T17:15:26.809811,contact,p001,competitor_a,job_title,head of sales,sales director,head of sales,bizzy,0.7,Values differ
+2026-04-29T17:15:26.809811,contact,p001,competitor_a,seniority,head,director,head,bizzy,0.7,Values differ
+2026-04-29T17:15:26.809811,contact,p001,competitor_a,department,sales,sales,sales,tie,0.7,Values match
+2026-04-29T17:15:26.809811,contact,p001,competitor_b,full_name,emma peeters,emma peeters,emma peeters,tie,0.7,Values match
+2026-04-29T17:15:26.809811,contact,p001,competitor_b,email,emma.peeters@acmeanalytics.com,emma.peeters@acmeanalytics.com,emma.peeters@acmeanalytics.com,tie,0.7,Values match
+2026-04-29T17:15:26.809811,contact,p001,competitor_b,linkedin_url,https://www.linkedin.com/in/emma-peeters,https://www.linkedin.com/in/emma-peeters,https://www.linkedin.com/in/emma-peeters,tie,0.7,Values match
+2026-04-29T17:15:26.809811,contact,p001,competitor_b,job_title,head of sales,head of sales,head of sales,tie,0.7,Values match
+2026-04-29T17:15:26.809811,contact,p001,competitor_b,seniority,head,head,head,tie,0.7,Values match
+2026-04-29T17:15:26.809811,contact,p001,competitor_b,department,sales,sales,sales,tie,0.7,Values match
+2026-04-29T17:15:26.809811,contact,p002,competitor_a,full_name,lucas de vries,lucas devries,lucas de vries,bizzy,0.7,Values differ
+2026-04-29T17:15:26.809811,contact,p002,competitor_a,email,lucas.devries@northstarlogistics.eu,lucas.devries@northstarlogistics.eu,lucas.devries@northstarlogistics.eu,tie,0.7,Values match
+2026-04-29T17:15:26.809811,contact,p002,competitor_a,linkedin_url,https://www.linkedin.com/in/lucas-devries,,https://www.linkedin.com/in/lucas-devries,bizzy,0.7,Values differ
+2026-04-29T17:15:26.809811,contact,p002,competitor_a,job_title,vp operations,operations director,vp operations,bizzy,0.7,Values differ
+2026-04-29T17:15:26.809811,contact,p002,competitor_a,seniority,vp,director,vp,bizzy,0.7,Values differ
+2026-04-29T17:15:26.809811,contact,p002,competitor_a,department,operations,operations,operations,tie,0.7,Values match
+2026-04-29T17:15:26.809811,contact,p004,competitor_a,full_name,max schneider,max schneider,max schneider,tie,0.7,Values match
+2026-04-29T17:15:26.809811,contact,p004,competitor_a,email,max.schneider@finovo.io,max.schneider@finovo.io,max.schneider@finovo.io,tie,0.7,Values match
+2026-04-29T17:15:26.809811,contact,p004,competitor_a,linkedin_url,https://www.linkedin.com/in/max-schneider,https://www.linkedin.com/in/max-schneider,https://www.linkedin.com/in/max-schneider,tie,0.7,Values match
+2026-04-29T17:15:26.809811,contact,p004,competitor_a,job_title,data engineering manager,data engineering manager,data engineering manager,tie,0.7,Values match
+2026-04-29T17:15:26.809811,contact,p004,competitor_a,seniority,manager,manager,manager,tie,0.7,Values match
+2026-04-29T17:15:26.809811,contact,p004,competitor_a,department,engineering,engineering,engineering,tie,0.7,Values match
+2026-04-29T17:15:26.809811,contact,p005,competitor_b,full_name,claire martin,claire martin,claire martin,tie,0.7,Values match
+2026-04-29T17:15:26.809811,contact,p005,competitor_b,email,claire.martin@medcore-systems.com,claire.martin@medcore-systems.com,claire.martin@medcore-systems.com,tie,0.7,Values match
+2026-04-29T17:15:26.809811,contact,p005,competitor_b,linkedin_url,https://www.linkedin.com/in/claire-martin,https://www.linkedin.com/in/claire-martin,https://www.linkedin.com/in/claire-martin,tie,0.7,Values match
+2026-04-29T17:15:26.809811,contact,p005,competitor_b,job_title,chief technology officer,chief technology officer,chief technology officer,tie,0.7,Values match
+2026-04-29T17:15:26.809811,contact,p005,competitor_b,seniority,c-level,c-level,c-level,tie,0.7,Values match
+2026-04-29T17:15:26.809811,contact,p005,competitor_b,department,technology,technology,technology,tie,0.7,Values match
